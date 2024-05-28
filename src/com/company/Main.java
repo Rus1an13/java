@@ -9,7 +9,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int[] nums = {-3, 5, 0, 4, 8, -4, -1, 2};
+//        int[] nums = {-3, 5, 0, 4, 8, -4, -1, 2};
 //        int count = 0;
 //
 //        for (int i : nums)
